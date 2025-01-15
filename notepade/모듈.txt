@@ -1,0 +1,4 @@
+from 폴더(경로) import 파일명
+from 파일명을 포함한 경로 impoert
+
+예외처리리
